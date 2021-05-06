@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728398181898",
+    "project_id": "digimind-1b254",
+    "storage_bucket": "digimind-1b254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728398181898:android:1523c4c4b9700ffeaf91f3",
+        "android_client_info": {
+          "package_name": "com.example.digimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728398181898-8sbksidcg6tc5vvkkgc0hrha4thq0t5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digimind",
+            "certificate_hash": "7f3fbfafb281cbce021599403329571726aa41c8"
+          }
+        },
+        {
+          "client_id": "728398181898-cj4lpeftm8s8ft6l0h1nm3gudjo09qoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCeH0mnMNaEstRB_K6LpgAgQY0Wvi8AAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728398181898-cj4lpeftm8s8ft6l0h1nm3gudjo09qoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

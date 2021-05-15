@@ -45,7 +45,7 @@ class LoginActivity : AppCompatActivity() {
         var correo: String = et_correo.text.toString()
         var contra: String = et_contra.text.toString()
 
-        if(!correo.isNullOrBlank() && contra.isNullOrBlank()){
+        if(!correo.isNullOrBlank() && !contra.isNullOrBlank()){
             ingresarFirebase(correo,contra)
         }else{
             Toast.makeText(this, "Ingresar datos",
